@@ -52,22 +52,6 @@ int main()
 			months = 0;
 			years += 1;
 		}
-		if (seconds == 15)
-		{
-			cout << "dont stop this i want to see what happens (also yes this is open on purpose)\n";
-		}
-		if (seconds == 30)
-		{
-			cout << "dont stop this i want to see what happens (also yes this is open on purpose)\n";
-		}
-		if (seconds == 45)
-		{
-			cout << "dont stop this i want to see what happens (also yes this is open on purpose)\n";
-		}
-		if (seconds == 0)
-		{
-			cout << "dont stop this i want to see what happens (also yes this is open on purpose)\n";
-		}
 		cout << years;
 		cout << " years ";
 		cout << months;
